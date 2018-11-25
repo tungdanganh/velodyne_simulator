@@ -1,4 +1,4 @@
-# Velodyne Simulator
+# Velodyne Simulator (Forked from https://bitbucket.org/DataspeedInc/velodyne_simulator)
 URDF description and Gazebo plugins to simulate Velodyne laser scanners
 
 ![rviz screenshot](img/rviz.png)
